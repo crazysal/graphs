@@ -109,6 +109,7 @@
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects 2019 ICML](https://arxiv.org/pdf/1904.12787.pdf)
 	<details>
 	  <summary>Authors and Abstract</summary>
+	
 		DeepMind: Yujia Li, Chenjie Gu, Thomas Dullien, Oriol Vinyals, Pushmeet Kohli 
 	  <p>
 		This paper addresses the challenging problem of retrieval and matching of graph structured objects, and makes two key contributions. First, we demonstrate how Graph Neural Networks (GNN), which have emerged as an effective model for various supervised prediction problems defined on structured data, can be trained to produce embedding of graphs in vector spaces that enables efficient similarity reasoning. Second, we propose a novel Graph Matching Network model that, given a pair of graphs as input, computes a similarity score between them by jointly reasoning on the pair through a new cross-graph attention-based matching mechanism. We demonstrate the effectiveness of our models on different domains including the challenging problem of control-flow-graph based function similarity search that plays an important role in the detection of vulnerabilities in software systems. The experimental analysis demonstrates that our models are not only able to exploit structure in the context of similarity learning but they can also outperform domain-specific baseline systems that have been carefully hand-engineered for these problems.
@@ -130,13 +131,12 @@
 
 #### Convolution Related 
 [Graph Classification with 2D Convolutional Neural Networks - Feb 2018](https://arxiv.org/pdf/1708.02218.pdf) 
-
 	<details>
-	  <summary>Authors and Abstract</summary>
-	  <p>
+		<summary>Abstract</summary>
+			<p>
 		Graph learning is currently dominated by graph kernels, which, while powerful, suffer some significant limitations. Convolutional Neural Networks (CNNs) offer a very appealing alternative, but processing graphs with CNNs is not trivial. To address this challenge, many sophisticated extensions of CNNs have recently been introduced. In this paper, we reverse the problem: rather than proposing yet another graph CNN model, we introduce a novel way to represent graphs as multi-channel image-like structures that allows them to be handled by vanilla 2D CNNs. Experiments reveal that our method is more accurate than state-of-the-art graph kernels and graph CNNs on 4 out of 6 real-world datasets (with and without continuous node attributes), and close elsewhere. Our approach is also preferable to graph kernels in terms of time complexity. Code and data are publicly available.
-	  </p>
-	</details>
+	</p>
+</details>
 
 
 ### Blog 
