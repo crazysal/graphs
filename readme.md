@@ -15,7 +15,10 @@
 </details>
 
 
-- [Deep Learning on Graphs: A Survey (December 2018)](https://arxiv.org/abs/1812.04202) 
+- [Deep Learning on Graphs: A Survey (December 2018) Pre=print WIP](https://arxiv.org/abs/1812.04202) 
+	by Ziwei Zhang, Peng Cui, Wenwu Zhu
+- [Graph Neural Networks: A Review of Methods and Applications March 2019 ](https://arxiv.org/pdf/1812.08434.pdf) 
+	 by Zhou et al 
 
 - [Representation Learning on Graphs: Methods and Applications (2017)](https://cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
 <details>
