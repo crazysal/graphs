@@ -124,7 +124,7 @@
 - [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1704.01212.pdf) 
 - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687) 
 - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) 
-- [Constrained Graph Variational Autoencoders forMolecule Design](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)[code](https://github.com/Microsoft/constrained-graph-variational-autoencoder) 
+- [Constrained Graph Variational Autoencoders forMolecule Design](https://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf):\[[code](https://github.com/Microsoft/constrained-graph-variational-autoencoder)\] 
 - [DAG Variational Autoencoder](https://arxiv.org/pdf/1904.11088.pdf)
 - [Learning deep Generative Models of Graphs](https://arxiv.org/pdf/1803.03324.pdf)
 
@@ -140,7 +140,7 @@
 		Graph-structured data appears frequently in domains including chemistry, natural language semantics, social networks, and knowledge bases. In this work, we study feature learning techniques for graph-structured inputs. Our starting point is previous work on Graph Neural Networks (Scarselli et al., 2009), which we modify to use gated recurrent units and modern optimization techniques and then extend to output sequences. The result is a flexible and broadly useful class of neural network models that has favorable inductive biases relative to purely sequence-based models (e.g., LSTMs) when the problem is graph-structured. We demonstrate the capabilities on some simple AI (bAbI) and graph algorithm learning tasks. We then show it achieves state-of-the-art performance on a problem from program verification, in which subgraphs need to be matched to abstract data structures.
 	 
 	</details>
-- [Graph Variational Autoencoder](https://arxiv.org/abs/1611.07308)[code](https://github.com/tkipf/gae)
+- [Graph Variational Autoencoder](https://arxiv.org/abs/1611.07308):\[[code](https://github.com/tkipf/gae)\]
 - [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf) 
 - [Geometric deep learning on graphs and manifolds using mixture model CNNs (MONET)](https://arxiv.org/pdf/1611.08402.pdf) 
 - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf) 
@@ -157,8 +157,10 @@
 		Graph learning is currently dominated by graph kernels, which, while powerful, suffer some significant limitations. Convolutional Neural Networks (CNNs) offer a very appealing alternative, but processing graphs with CNNs is not trivial. To address this challenge, many sophisticated extensions of CNNs have recently been introduced. In this paper, we reverse the problem: rather than proposing yet another graph CNN model, we introduce a novel way to represent graphs as multi-channel image-like structures that allows them to be handled by vanilla 2D CNNs. Experiments reveal that our method is more accurate than state-of-the-art graph kernels and graph CNNs on 4 out of 6 real-world datasets (with and without continuous node attributes), and close elsewhere. Our approach is also preferable to graph kernels in terms of time complexity. Code and data are publicly available.
 	 
 </details>
-- [Graph RCNN - Scene Graph Generation](https://arxiv.org/pdf/1808.00191.pdf)[code](https://github.com/jwyang/graph-rcnn.pytorch)
-- [Graph UNET - Pooling in graphs ICML 2019](https://arxiv.org/pdf/1808.00191.pdf)[code](https://github.com/jwyang/graph-rcnn.pytorch)
+
+- [Graph RCNN - Scene Graph Generation](https://arxiv.org/pdf/1808.00191.pdf):\[[code](https://github.com/jwyang/graph-rcnn.pytorch)\]
+
+- [Graph UNET - Pooling in graphs ICML 2019](https://arxiv.org/pdf/1808.00191.pdf):\[[code](https://github.com/jwyang/graph-rcnn.pytorch)\]
 
 #### Vision Task Related (CVPR papers)
 - [Pixels to Graphs by Associative Embedding- March 2018](https://arxiv.org/pdf/1706.07365.pdf)
@@ -175,7 +177,7 @@
 - [LatentGNN: Learning Efficient Non-local Relations for Visual Recognition](https://arxiv.org/pdf/1905.11634.pdf)
 - [Graph-Structured Representations for Visual Question Answering](https://arxiv.org/pdf/1609.05600.pdf)
 - [Graphical Contrastive Losses for Scene Graph Parsing](https://arxiv.org/pdf/1903.02728.pdf)
-- [Adaptively Connected Neural Networks](https://arxiv.org/pdf/1904.03579v1.pdf)[code](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks)
+- [Adaptively Connected Neural Networks](https://arxiv.org/pdf/1904.03579v1.pdf):\[[code](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks)\]
 - []()
 
 ### Dataset
